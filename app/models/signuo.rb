@@ -1,0 +1,2 @@
+class Signuo < ApplicationRecord
+end
